@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Delivered_Needs_Date</fullName>
+    <active>true</active>
+    <description>Delivered shipments must have a date.</description>
+    <errorConditionFormula>AND(ISPICKVAL(Status__c, 'Delivered'), ISBLANK(Delivered_Date__c))</errorConditionFormula>
+    <errorDisplayField>Delivered_Date__c</errorDisplayField>
+    <errorMessage>Enter the Delivered Date when Status is Delivered.</errorMessage>
+</ValidationRule>

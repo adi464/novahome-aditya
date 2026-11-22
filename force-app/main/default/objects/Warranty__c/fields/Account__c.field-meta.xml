@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Account__c</fullName>
+    <description>The customer account that owns this warranty (master-detail: sharing and delete follow the account).</description>
+    <inlineHelpText>The customer account that owns this warranty (master-detail: sharing and delete follow the account).</inlineHelpText>
+    <label>Account</label>
+    <type>MasterDetail</type>
+    <referenceTo>Account</referenceTo>
+    <relationshipLabel>Warranties</relationshipLabel>
+    <relationshipName>Warranties</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+    <trackHistory>false</trackHistory>
+</CustomField>

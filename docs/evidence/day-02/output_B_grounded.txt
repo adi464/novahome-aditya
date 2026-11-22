@@ -1,0 +1,5 @@
+Template: NovaHome_Warranty_Grounded (Flex, GPT 5 Mini) - NovaHome Official, 22 Nov 2026
+Response time 2.59 s, 661 tokens
+Prompt: same question + "using ONLY the policy below" + NovaHome Warranty Policy v2 text
+Response:
+NovaHome provides a 2-year warranty on furniture from the delivery date. Large appliances are covered for 3 years and small appliances for 1 year. Loyalty Gold members receive one additional year of coverage on every product. Claims must be raised within 30 days of noticing the defect with the order number; NovaHome will attempt repairs first and will replace the item only if repairs fail twice. Not covered are normal wear, misuse, outdoor use of indoor furniture, and products bought from non-NovaHome sellers.

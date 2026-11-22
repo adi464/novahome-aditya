@@ -1,0 +1,44 @@
+=== Day 1: assign Data Cloud Admin + Prompt Template Manager === 
+ »   Warning: @salesforce/cli update available from 2.157.8 to 2.159.7.
+Querying Data... done
+┌───────────────────┐
+│ NAME              │
+├───────────────────┤
+│ NovaHome Official │
+└───────────────────┘
+
+Total number of records retrieved: 1.
+ »   Warning: @salesforce/cli update available from 2.157.8 to 2.159.7.
+Querying Data... done
+┌──────────────────────────────────┬─────────────────────────┐
+│ NAME                             │ LABEL                   │
+├──────────────────────────────────┼─────────────────────────┤
+│ CDPAdmin                         │ Data Cloud Admin        │
+│ EinsteinGPTPromptTemplateManager │ Prompt Template Manager │
+└──────────────────────────────────┴─────────────────────────┘
+
+Total number of records retrieved: 2.
+ »   Warning: @salesforce/cli update available from 2.157.8 to 2.159.7.
+Failures
+┌────────────────────────────────────────────┬────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ Username                                   │ Error Message                                                                                  │
+├────────────────────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ adityanovahome.80590d994f22@agentforce.com │ Duplicate PermissionSetAssignment.  Assignee: 005gL00000QjjI9; Permission Set: 0PSgL00000PGQqY │
+│ adityanovahome.80590d994f22@agentforce.com │ Duplicate PermissionSetAssignment.  Assignee: 005gL00000QjjI9; Permission Set: 0PSgL00000PGQrN │
+└────────────────────────────────────────────┴────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+ASSIGN EXIT 1 
+ »   Warning: @salesforce/cli update available from 2.157.8 to 2.159.7.
+Querying Data... done
+┌────────────────────────────────────────┬────────────────────────────────────────────┐
+│ PERMISSIONSET.LABEL                    │ ASSIGNEE.USERNAME                          │
+├────────────────────────────────────────┼────────────────────────────────────────────┤
+│ Data Cloud Architect                   │ adityanovahome.80590d994f22@agentforce.com │
+│ Service Cloud User                     │ adityanovahome.80590d994f22@agentforce.com │
+│ Agentforce Default Admin               │ adityanovahome.80590d994f22@agentforce.com │
+│ Prompt Template Manager                │ adityanovahome.80590d994f22@agentforce.com │
+│ Agentforce Service Agent Configuration │ adityanovahome.80590d994f22@agentforce.com │
+└────────────────────────────────────────┴────────────────────────────────────────────┘
+
+Total number of records retrieved: 5.
+DONE 

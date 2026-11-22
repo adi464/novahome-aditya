@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenAiPromptTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Day 2 grounding lab - version B, synthetic policy text supplied.</description>
+    <developerName>NovaHome_Warranty_Grounded</developerName>
+    <masterLabel>NovaHome Warranty Grounded</masterLabel>
+    <templateVersions>
+        <content>You are a support assistant for NovaHome, a home furniture and appliance retailer. Answer the customer&apos;s question in 3-4 short sentences using ONLY the policy below. If the policy does not cover something, say you don&apos;t know. POLICY (NovaHome Warranty Policy v2, effective 1 Jan 2026): Furniture is covered for 2 years from delivery date. Large appliances are covered for 3 years; small appliances for 1 year. Loyalty Gold members get 1 extra year on every product. Claims must be raised within 30 days of noticing the defect, with the order number. NovaHome repairs first; if repair fails twice, the item is replaced. Not covered: normal wear, misuse, outdoor use of indoor furniture, and products bought from non-NovaHome sellers. Question: What is NovaHome&apos;s warranty policy?</content>
+        <primaryModel>sfdc_ai__DefaultGPT5Mini</primaryModel>
+        <status>Draft</status>
+        <versionIdentifier>/oev8d2KufXrFKWzX8tT536wwevqsaONV03xKGUQ4i0=_1</versionIdentifier>
+    </templateVersions>
+    <type>einstein_gpt__flex</type>
+    <visibility>Global</visibility>
+</GenAiPromptTemplate>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Days_Remaining__c</fullName>
+    <description>Formula: End Date minus today (negative = expired).</description>
+    <inlineHelpText>Formula: End Date minus today (negative = expired).</inlineHelpText>
+    <label>Days Remaining</label>
+    <type>Number</type>
+    <formula>End_Date__c - TODAY()</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <precision>18</precision>
+    <scale>0</scale>
+    <trackHistory>false</trackHistory>
+</CustomField>

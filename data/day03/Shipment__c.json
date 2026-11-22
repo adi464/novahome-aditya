@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Shipment__c",
+        "referenceId": "Shp1"
+      },
+      "Order__c": "@Ord1",
+      "Carrier__c": "NovaHome Fleet",
+      "Tracking_Number__c": "NO900101",
+      "Status__c": "Delivered",
+      "Shipped_Date__c": "2026-11-15",
+      "Expected_Delivery__c": "2026-11-23",
+      "Delivered_Date__c": "2026-11-19"
+    },
+    {
+      "attributes": {
+        "type": "Shipment__c",
+        "referenceId": "Shp2"
+      },
+      "Order__c": "@Ord2",
+      "Carrier__c": "Blue Dart",
+      "Tracking_Number__c": "BL900102",
+      "Status__c": "Delivered",
+      "Shipped_Date__c": "2026-11-14",
+      "Expected_Delivery__c": "2026-11-25",
+      "Delivered_Date__c": "2026-11-18"
+    },
+    {
+      "attributes": {
+        "type": "Shipment__c",
+        "referenceId": "Shp3"
+      },
+      "Order__c": "@Ord3",
+      "Carrier__c": "Delhivery",
+      "Tracking_Number__c": "DE900103",
+      "Status__c": "In Transit",
+      "Shipped_Date__c": "2026-11-13",
+      "Expected_Delivery__c": "2026-11-21"
+    },
+    {
+      "attributes": {
+        "type": "Shipment__c",
+        "referenceId": "Shp4"
+      },
+      "Order__c": "@Ord4",
+      "Carrier__c": "DTDC",
+      "Tracking_Number__c": "DT900104",
+      "Status__c": "Delayed",
+      "Shipped_Date__c": "2026-11-12",
+      "Expected_Delivery__c": "2026-11-23"
+    },
+    {
+      "attributes": {
+        "type": "Shipment__c",
+        "referenceId": "Shp5"
+      },
+      "Order__c": "@Ord5",
+      "Carrier__c": "Blue Dart",
+      "Tracking_Number__c": "BL900105",
+      "Status__c": "Out for Delivery",
+      "Shipped_Date__c": "2026-11-11",
+      "Expected_Delivery__c": "2026-11-25"
+    },
+    {
+      "attributes": {
+        "type": "Shipment__c",
+        "referenceId": "Shp6"
+      },
+      "Order__c": "@Ord6",
+      "Carrier__c": "NovaHome Fleet",
+      "Tracking_Number__c": "NO900106",
+      "Status__c": "Delivered",
+      "Shipped_Date__c": "2026-11-10",
+      "Expected_Delivery__c": "2026-11-21",
+      "Delivered_Date__c": "2026-11-14"
+    },
+    {
+      "attributes": {
+        "type": "Shipment__c",
+        "referenceId": "Shp7"
+      },
+      "Order__c": "@Ord7",
+      "Carrier__c": "Delhivery",
+      "Tracking_Number__c": "DE900107",
+      "Status__c": "Pending",
+      "Expected_Delivery__c": "2026-11-23"
+    },
+    {
+      "attributes": {
+        "type": "Shipment__c",
+        "referenceId": "Shp8"
+      },
+      "Order__c": "@Ord8",
+      "Carrier__c": "DTDC",
+      "Tracking_Number__c": "DT900108",
+      "Status__c": "Returned",
+      "Shipped_Date__c": "2026-11-08",
+      "Expected_Delivery__c": "2026-11-25"
+    }
+  ]
+}

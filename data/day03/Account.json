@@ -1,0 +1,92 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "Acc1"
+      },
+      "Name": "Mehta Household",
+      "BillingCity": "Pune",
+      "BillingCountry": "India",
+      "Type": "Customer",
+      "Description": "Synthetic NovaHome sample customer"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "Acc2"
+      },
+      "Name": "Nair Household",
+      "BillingCity": "Bengaluru",
+      "BillingCountry": "India",
+      "Type": "Customer",
+      "Description": "Synthetic NovaHome sample customer"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "Acc3"
+      },
+      "Name": "Kulkarni Household",
+      "BillingCity": "Pune",
+      "BillingCountry": "India",
+      "Type": "Customer",
+      "Description": "Synthetic NovaHome sample customer"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "Acc4"
+      },
+      "Name": "Iyer Household",
+      "BillingCity": "Chennai",
+      "BillingCountry": "India",
+      "Type": "Customer",
+      "Description": "Synthetic NovaHome sample customer"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "Acc5"
+      },
+      "Name": "Joshi Household",
+      "BillingCity": "Mumbai",
+      "BillingCountry": "India",
+      "Type": "Customer",
+      "Description": "Synthetic NovaHome sample customer"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "Acc6"
+      },
+      "Name": "Rao Household",
+      "BillingCity": "Hyderabad",
+      "BillingCountry": "India",
+      "Type": "Customer",
+      "Description": "Synthetic NovaHome sample customer"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "Acc7"
+      },
+      "Name": "Singh Household",
+      "BillingCity": "Delhi",
+      "BillingCountry": "India",
+      "Type": "Customer",
+      "Description": "Synthetic NovaHome sample customer"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "Acc8"
+      },
+      "Name": "Desai Household",
+      "BillingCity": "Ahmedabad",
+      "BillingCountry": "India",
+      "Type": "Customer",
+      "Description": "Synthetic NovaHome sample customer"
+    }
+  ]
+}

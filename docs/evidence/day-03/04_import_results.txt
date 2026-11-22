@@ -1,0 +1,63 @@
+Import Results
+┌──────────────┬───────────────────┬────────────────────┐
+│ Reference ID │ Type              │ ID                 │
+├──────────────┼───────────────────┼────────────────────┤
+│ Acc1         │ Account           │ 001gL00002BlmrRQAR │
+│ Acc2         │ Account           │ 001gL00002BlmrSQAR │
+│ Acc3         │ Account           │ 001gL00002BlmrTQAR │
+│ Acc4         │ Account           │ 001gL00002BlmrUQAR │
+│ Acc5         │ Account           │ 001gL00002BlmrVQAR │
+│ Acc6         │ Account           │ 001gL00002BlmrWQAR │
+│ Acc7         │ Account           │ 001gL00002BlmrXQAR │
+│ Acc8         │ Account           │ 001gL00002BlmrYQAR │
+│ Con1         │ Contact           │ 003gL00001IFq6fQAD │
+│ Con2         │ Contact           │ 003gL00001IFq6gQAD │
+│ Con3         │ Contact           │ 003gL00001IFq6hQAD │
+│ Con4         │ Contact           │ 003gL00001IFq6iQAD │
+│ Con5         │ Contact           │ 003gL00001IFq6jQAD │
+│ Con6         │ Contact           │ 003gL00001IFq6kQAD │
+│ Con7         │ Contact           │ 003gL00001IFq6lQAD │
+│ Con8         │ Contact           │ 003gL00001IFq6mQAD │
+│ Prod1        │ Product2          │ 01tgL00000W23NZQAZ │
+│ Prod2        │ Product2          │ 01tgL00000W23NaQAJ │
+│ Prod3        │ Product2          │ 01tgL00000W23NbQAJ │
+│ Prod4        │ Product2          │ 01tgL00000W23NcQAJ │
+│ Prod5        │ Product2          │ 01tgL00000W23NdQAJ │
+│ Prod6        │ Product2          │ 01tgL00000W23NeQAJ │
+│ Ord1         │ Order             │ 801gL00002Bk9qbQAB │
+│ Ord2         │ Order             │ 801gL00002Bk9qcQAB │
+│ Ord3         │ Order             │ 801gL00002Bk9qdQAB │
+│ Ord4         │ Order             │ 801gL00002Bk9qeQAB │
+│ Ord5         │ Order             │ 801gL00002Bk9qfQAB │
+│ Ord6         │ Order             │ 801gL00002Bk9qgQAB │
+│ Ord7         │ Order             │ 801gL00002Bk9qhQAB │
+│ Ord8         │ Order             │ 801gL00002Bk9qiQAB │
+│ Loy1         │ Loyalty_Member__c │ a00gL00001ikH8rQAE │
+│ Loy2         │ Loyalty_Member__c │ a00gL00001ikH8sQAE │
+│ Loy3         │ Loyalty_Member__c │ a00gL00001ikH8tQAE │
+│ Loy4         │ Loyalty_Member__c │ a00gL00001ikH8uQAE │
+│ Loy5         │ Loyalty_Member__c │ a00gL00001ikH8vQAE │
+│ Loy6         │ Loyalty_Member__c │ a00gL00001ikH8wQAE │
+│ Loy7         │ Loyalty_Member__c │ a00gL00001ikH8xQAE │
+│ Loy8         │ Loyalty_Member__c │ a00gL00001ikH8yQAE │
+│ War1         │ Warranty__c       │ a02gL00000c75ujQAA │
+│ War2         │ Warranty__c       │ a02gL00000c75ukQAA │
+│ War3         │ Warranty__c       │ a02gL00000c75ulQAA │
+│ War4         │ Warranty__c       │ a02gL00000c75umQAA │
+│ War5         │ Warranty__c       │ a02gL00000c75unQAA │
+│ War6         │ Warranty__c       │ a02gL00000c75uoQAA │
+│ War7         │ Warranty__c       │ a02gL00000c75upQAA │
+│ War8         │ Warranty__c       │ a02gL00000c75uqQAA │
+│ War9         │ Warranty__c       │ a02gL00000c75urQAA │
+│ War10        │ Warranty__c       │ a02gL00000c75usQAA │
+│ Shp1         │ Shipment__c       │ a01gL00002BkcSlQAJ │
+│ Shp2         │ Shipment__c       │ a01gL00002BkcSmQAJ │
+│ Shp3         │ Shipment__c       │ a01gL00002BkcSnQAJ │
+│ Shp4         │ Shipment__c       │ a01gL00002BkcSoQAJ │
+│ Shp5         │ Shipment__c       │ a01gL00002BkcSpQAJ │
+│ Shp6         │ Shipment__c       │ a01gL00002BkcSqQAJ │
+│ Shp7         │ Shipment__c       │ a01gL00002BkcSrQAJ │
+│ Shp8         │ Shipment__c       │ a01gL00002BkcSsQAJ │
+└──────────────┴───────────────────┴────────────────────┘
+
+IMPORT EXIT 0 

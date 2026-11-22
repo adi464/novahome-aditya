@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenAiPromptTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Day 2 grounding lab - version A, no company data supplied.</description>
+    <developerName>NovaHome_Warranty_Ungrounded</developerName>
+    <masterLabel>NovaHome Warranty Ungrounded</masterLabel>
+    <templateVersions>
+        <content>You are a support assistant for NovaHome, a home furniture and appliance retailer. Answer the customer&apos;s question in 3-4 short sentences. Question: What is NovaHome&apos;s warranty policy?</content>
+        <primaryModel>sfdc_ai__DefaultGPT5Mini</primaryModel>
+        <status>Draft</status>
+        <versionIdentifier>/oev8d2KufXrFKWzX8tT536wwevqsaONV03xKGUQ4i0=_1</versionIdentifier>
+    </templateVersions>
+    <type>einstein_gpt__flex</type>
+    <visibility>Global</visibility>
+</GenAiPromptTemplate>

@@ -1,0 +1,29 @@
+=== Test Results
+TEST NAME                                            OUTCOME  MESSAGE  RUNTIME (MS)
+───────────────────────────────────────────────────  ───────  ───────  ────────────
+NovaHomeAccessTest.withPermissionSet_readOnly        Pass              1376        
+NovaHomeAccessTest.withoutPermissionSet_seesNothing  Pass              485         
+
+
+=== Test Setup Time by Test Class for Run 707gL00001dt6qo
+TEST SETUP METHOD NAME    SETUP TIME
+────────────────────────  ──────────
+NovaHomeAccessTest.setup  994       
+
+
+=== Test Summary
+NAME                 VALUE                                     
+───────────────────  ──────────────────────────────────────────
+Outcome              Passed                                    
+Tests Ran            3                                         
+Pass Rate            100%                                      
+Fail Rate            0%                                        
+Skip Rate            0%                                        
+Test Run Id          707gL00001dt6qo                           
+Test Setup Time      994 ms                                    
+Test Execution Time  1861 ms                                   
+Test Total Time      2855 ms                                   
+Org Id               00DgL00000j7AFHUA2                        
+Username             adityanovahome.80590d994f22@agentforce.com
+
+TEST EXIT 0 

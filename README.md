@@ -19,5 +19,7 @@ Fictional company: NovaHome, an appliance retailer. Synthetic data only. No clie
 - scripts/ : repeatable CLI commands
 
 ## Progress
-- Day 1: org created (22 Nov 2026), Einstein on, Data Cloud setup started
-- Day 2: SFDX project, metadata retrieved, pushed to GitHub
+- Day 1: org created (22 Nov 2026), Einstein on
+- Day 1: Data Cloud live, NovaHome Employee Agent
+- Day 2: SFDX project + 187 files, org tour, grounding lab, stack map
+- Day 3: Warranty, Loyalty Member, Shipment objects, NovaHome_Agent_Access, restricted-user test passed, 56 sample records

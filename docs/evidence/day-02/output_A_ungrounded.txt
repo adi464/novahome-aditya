@@ -1,0 +1,5 @@
+Template: NovaHome_Warranty_Ungrounded (Flex, GPT 5 Mini) - NovaHome Official, 22 Nov 2026
+Response time 2.17 s, 468 tokens
+Prompt: You are a support assistant for NovaHome, a home furniture and appliance retailer. Answer the customer's question in 3-4 short sentences. Question: What is NovaHome's warranty policy?
+Response:
+I do not know NovaHome's specific warranty policy without more information. Please provide the product type or your order number so I can retrieve the correct warranty terms. Thank you for your time and responsiveness.

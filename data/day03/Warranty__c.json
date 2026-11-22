@@ -1,0 +1,154 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "War1"
+      },
+      "Account__c": "@Acc1",
+      "Contact__c": "@Con1",
+      "Order__c": "@Ord1",
+      "Product__c": "@Prod1",
+      "Product_Category__c": "Furniture",
+      "Serial_Number__c": "NH202600011",
+      "Start_Date__c": "2026-05-06",
+      "End_Date__c": "2029-05-05",
+      "Status__c": "Active"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "War2"
+      },
+      "Account__c": "@Acc1",
+      "Contact__c": "@Con1",
+      "Order__c": "@Ord1",
+      "Product__c": "@Prod3",
+      "Product_Category__c": "Large Appliance",
+      "Serial_Number__c": "NH202600023",
+      "Start_Date__c": "2026-08-24",
+      "End_Date__c": "2030-08-23",
+      "Status__c": "Active"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "War3"
+      },
+      "Account__c": "@Acc2",
+      "Contact__c": "@Con2",
+      "Order__c": "@Ord2",
+      "Product__c": "@Prod2",
+      "Product_Category__c": "Furniture",
+      "Serial_Number__c": "NH202600032",
+      "Start_Date__c": "2024-09-13",
+      "End_Date__c": "2026-09-12",
+      "Status__c": "Expired"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "War4"
+      },
+      "Account__c": "@Acc3",
+      "Contact__c": "@Con3",
+      "Order__c": "@Ord3",
+      "Product__c": "@Prod4",
+      "Product_Category__c": "Large Appliance",
+      "Serial_Number__c": "NH202600044",
+      "Start_Date__c": "2025-10-18",
+      "End_Date__c": "2028-10-17",
+      "Status__c": "Claimed"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "War5"
+      },
+      "Account__c": "@Acc4",
+      "Contact__c": "@Con4",
+      "Order__c": "@Ord4",
+      "Product__c": "@Prod5",
+      "Product_Category__c": "Small Appliance",
+      "Serial_Number__c": "NH202600055",
+      "Start_Date__c": "2026-09-23",
+      "End_Date__c": "2028-09-22",
+      "Status__c": "Active"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "War6"
+      },
+      "Account__c": "@Acc4",
+      "Contact__c": "@Con4",
+      "Order__c": "@Ord4",
+      "Product__c": "@Prod1",
+      "Product_Category__c": "Furniture",
+      "Serial_Number__c": "NH202600061",
+      "Start_Date__c": "2025-07-10",
+      "End_Date__c": "2028-07-09",
+      "Status__c": "Active"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "War7"
+      },
+      "Account__c": "@Acc5",
+      "Contact__c": "@Con5",
+      "Order__c": "@Ord5",
+      "Product__c": "@Prod6",
+      "Product_Category__c": "Small Appliance",
+      "Serial_Number__c": "NH202600076",
+      "Start_Date__c": "2025-09-28",
+      "End_Date__c": "2026-09-27",
+      "Status__c": "Expired"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "War8"
+      },
+      "Account__c": "@Acc6",
+      "Contact__c": "@Con6",
+      "Order__c": "@Ord6",
+      "Product__c": "@Prod3",
+      "Product_Category__c": "Large Appliance",
+      "Serial_Number__c": "NH202600083",
+      "Start_Date__c": "2026-10-23",
+      "End_Date__c": "2029-10-22",
+      "Status__c": "Active"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "War9"
+      },
+      "Account__c": "@Acc7",
+      "Contact__c": "@Con7",
+      "Order__c": "@Ord7",
+      "Product__c": "@Prod2",
+      "Product_Category__c": "Furniture",
+      "Serial_Number__c": "NH202600092",
+      "Start_Date__c": "2026-11-12",
+      "End_Date__c": "2028-11-11",
+      "Status__c": "Active"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "War10"
+      },
+      "Account__c": "@Acc8",
+      "Contact__c": "@Con8",
+      "Order__c": "@Ord8",
+      "Product__c": "@Prod4",
+      "Product_Category__c": "Large Appliance",
+      "Serial_Number__c": "NH202600104",
+      "Start_Date__c": "2023-08-10",
+      "End_Date__c": "2026-08-09",
+      "Status__c": "Void"
+    }
+  ]
+}

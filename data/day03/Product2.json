@@ -1,0 +1,70 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Product2",
+        "referenceId": "Prod1"
+      },
+      "Name": "Oslo 3-Seater Sofa",
+      "ProductCode": "NH-SOFA-OSLO",
+      "Family": "Furniture",
+      "IsActive": true,
+      "Description": "Synthetic NovaHome catalogue item"
+    },
+    {
+      "attributes": {
+        "type": "Product2",
+        "referenceId": "Prod2"
+      },
+      "Name": "Teak Dining Table 6-Seat",
+      "ProductCode": "NH-DT-TEAK6",
+      "Family": "Furniture",
+      "IsActive": true,
+      "Description": "Synthetic NovaHome catalogue item"
+    },
+    {
+      "attributes": {
+        "type": "Product2",
+        "referenceId": "Prod3"
+      },
+      "Name": "FrostMax 450L Refrigerator",
+      "ProductCode": "NH-REF-450",
+      "Family": "Large Appliance",
+      "IsActive": true,
+      "Description": "Synthetic NovaHome catalogue item"
+    },
+    {
+      "attributes": {
+        "type": "Product2",
+        "referenceId": "Prod4"
+      },
+      "Name": "AquaPure Front-Load Washer 8kg",
+      "ProductCode": "NH-WM-8KG",
+      "Family": "Large Appliance",
+      "IsActive": true,
+      "Description": "Synthetic NovaHome catalogue item"
+    },
+    {
+      "attributes": {
+        "type": "Product2",
+        "referenceId": "Prod5"
+      },
+      "Name": "BrewPro Coffee Maker",
+      "ProductCode": "NH-CM-BREW",
+      "Family": "Small Appliance",
+      "IsActive": true,
+      "Description": "Synthetic NovaHome catalogue item"
+    },
+    {
+      "attributes": {
+        "type": "Product2",
+        "referenceId": "Prod6"
+      },
+      "Name": "AirLite Air Purifier",
+      "ProductCode": "NH-AP-LITE",
+      "Family": "Small Appliance",
+      "IsActive": true,
+      "Description": "Synthetic NovaHome catalogue item"
+    }
+  ]
+}

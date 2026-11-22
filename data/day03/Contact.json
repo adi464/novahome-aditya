@@ -1,0 +1,92 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "Con1"
+      },
+      "FirstName": "Rohan",
+      "LastName": "Mehta",
+      "AccountId": "@Acc1",
+      "Email": "rohan.mehta@example.com",
+      "MailingCity": "Pune"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "Con2"
+      },
+      "FirstName": "Priya",
+      "LastName": "Nair",
+      "AccountId": "@Acc2",
+      "Email": "priya.nair@example.com",
+      "MailingCity": "Bengaluru"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "Con3"
+      },
+      "FirstName": "Arjun",
+      "LastName": "Kulkarni",
+      "AccountId": "@Acc3",
+      "Email": "arjun.kulkarni@example.com",
+      "MailingCity": "Pune"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "Con4"
+      },
+      "FirstName": "Sneha",
+      "LastName": "Iyer",
+      "AccountId": "@Acc4",
+      "Email": "sneha.iyer@example.com",
+      "MailingCity": "Chennai"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "Con5"
+      },
+      "FirstName": "Vikram",
+      "LastName": "Joshi",
+      "AccountId": "@Acc5",
+      "Email": "vikram.joshi@example.com",
+      "MailingCity": "Mumbai"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "Con6"
+      },
+      "FirstName": "Ananya",
+      "LastName": "Rao",
+      "AccountId": "@Acc6",
+      "Email": "ananya.rao@example.com",
+      "MailingCity": "Hyderabad"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "Con7"
+      },
+      "FirstName": "Kabir",
+      "LastName": "Singh",
+      "AccountId": "@Acc7",
+      "Email": "kabir.singh@example.com",
+      "MailingCity": "Delhi"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "Con8"
+      },
+      "FirstName": "Meera",
+      "LastName": "Desai",
+      "AccountId": "@Acc8",
+      "Email": "meera.desai@example.com",
+      "MailingCity": "Ahmedabad"
+    }
+  ]
+}

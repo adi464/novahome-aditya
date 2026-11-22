@@ -1,0 +1,44 @@
+[
+  {
+    "sobject": "Account",
+    "files": [
+      "Account.json"
+    ]
+  },
+  {
+    "sobject": "Contact",
+    "files": [
+      "Contact.json"
+    ]
+  },
+  {
+    "sobject": "Product2",
+    "files": [
+      "Product2.json"
+    ]
+  },
+  {
+    "sobject": "Order",
+    "files": [
+      "Order.json"
+    ]
+  },
+  {
+    "sobject": "Loyalty_Member__c",
+    "files": [
+      "Loyalty_Member__c.json"
+    ]
+  },
+  {
+    "sobject": "Warranty__c",
+    "files": [
+      "Warranty__c.json"
+    ]
+  },
+  {
+    "sobject": "Shipment__c",
+    "files": [
+      "Shipment__c.json"
+    ]
+  }
+]

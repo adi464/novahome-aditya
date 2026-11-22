@@ -7,3 +7,4 @@ node_modules/
 
 *.tgz
 scripts/*_log.txt
+force-app/main/default/layouts/Loyalty_Member__c-Loyalty

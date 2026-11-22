@@ -1,0 +1,92 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "Loy1"
+      },
+      "Contact__c": "@Con1",
+      "Tier__c": "Gold",
+      "Points_Balance__c": 5200,
+      "Member_Since__c": "2024-11-22",
+      "Active__c": true
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "Loy2"
+      },
+      "Contact__c": "@Con2",
+      "Tier__c": "Silver",
+      "Points_Balance__c": 2100,
+      "Member_Since__c": "2023-11-23",
+      "Active__c": true
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "Loy3"
+      },
+      "Contact__c": "@Con3",
+      "Tier__c": "Bronze",
+      "Points_Balance__c": 450,
+      "Member_Since__c": "2022-11-23",
+      "Active__c": true
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "Loy4"
+      },
+      "Contact__c": "@Con4",
+      "Tier__c": "Gold",
+      "Points_Balance__c": 7800,
+      "Member_Since__c": "2025-11-22",
+      "Active__c": true
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "Loy5"
+      },
+      "Contact__c": "@Con5",
+      "Tier__c": "Silver",
+      "Points_Balance__c": 1600,
+      "Member_Since__c": "2024-11-22",
+      "Active__c": true
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "Loy6"
+      },
+      "Contact__c": "@Con6",
+      "Tier__c": "Bronze",
+      "Points_Balance__c": 300,
+      "Member_Since__c": "2023-11-23",
+      "Active__c": true
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "Loy7"
+      },
+      "Contact__c": "@Con7",
+      "Tier__c": "Bronze",
+      "Points_Balance__c": 90,
+      "Member_Since__c": "2022-11-23",
+      "Active__c": false
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "Loy8"
+      },
+      "Contact__c": "@Con8",
+      "Tier__c": "Silver",
+      "Points_Balance__c": 2500,
+      "Member_Since__c": "2025-11-22",
+      "Active__c": true
+    }
+  ]
+}
