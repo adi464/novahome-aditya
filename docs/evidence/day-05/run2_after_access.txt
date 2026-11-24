@@ -1,0 +1,8 @@
+--- RUN 2: after principal access --- 
+Compiled successfully.
+Executed successfully.
+Execute Anonymous: System.debug(LoggingLevel.ERROR, 'DAY5 STATUS: ' + res.getStatusCode() + ' ' + res.getStatus());
+Execute Anonymous: System.debug(LoggingLevel.ERROR, 'DAY5 RECORD: id=' + user.get('id') + ' | name=' + user.get('name')
+20:07:52.36 (179345711)|USER_DEBUG|[7]|ERROR|DAY5 STATUS: 200 OK
+20:07:52.36 (180328580)|USER_DEBUG|[10]|ERROR|DAY5 RECORD: id=1 | name=Leanne Graham | email=Sincere@april.biz | city=Gwenborough
+RUN2 EXIT 0 

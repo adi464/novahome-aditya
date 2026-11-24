@@ -23,3 +23,5 @@ Fictional company: NovaHome, an appliance retailer. Synthetic data only. No clie
 - Day 1: Data Cloud live, NovaHome Employee Agent
 - Day 2: SFDX project + 187 files, org tour, grounding lab, stack map
 - Day 3: Warranty, Loyalty Member, Shipment objects, NovaHome_Agent_Access, restricted-user test passed, 56 sample records
+- Day 4: NovaHome FAQ Agent drafted by Agentforce Assistant, 5-question preview log (routing 5/5)
+- Day 5: Named + External Credential, Apex callout 200 OK

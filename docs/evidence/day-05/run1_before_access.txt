@@ -1,0 +1,7 @@
+--- RUN 1: before principal access --- 
+Error (executeRuntimeFailure): Execution failed at this code:
+
+System.CalloutException: We couldn't access the credential(s). You might not have the required permissions, or the external credential "NovaHome_Mock_API" might not exist.
+
+
+RUN1 EXIT 1 
