@@ -1,6 +1,6 @@
 # NovaHome - Aditya Sharma
 
-Official build for the Infoglen Agentforce + Data 360 Expert Program (60 days, 20 Nov 2026 to 18 Jan 2027).
+Official build for the Agentforce + Data 360 Expert Program (60 days, 20 Nov 2026 to 18 Jan 2027).
 
 Fictional company: NovaHome, an appliance retailer. Synthetic data only. No client or employer data.
 
